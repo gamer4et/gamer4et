@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gamer4et
-- 👀 I’m interested in linux-kernel,go,asm,PostgreSQL,terraform,k8s
+- 👀 I’m interested in ML,linux-kernel,go,asm,PostgreSQL,terraform,k8s
 - 🌱 Currently working in Yandex
 - 📫 How to reach me> ilyabatkov@mail.ru
 
